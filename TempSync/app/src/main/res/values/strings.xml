@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TempSync</string>
+
+    <string name="api_base_url">https://api.in.com.hr/</string>
+    <string name="preferences_name">hr.com.in.tempsync_secure_prefs</string>
+
+    <string name="btn_continue_as">Continue as %s</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="add_device">Add device</string>
+    <string name="add_topic">Add topic</string>
+    <string name="add_conn">Add connection</string>
+    <string name="user_info">User info</string>
+
+    <string name="title_activity_app">AppActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_devices">Devices</string>
+    <string name="title_topics">Topics</string>
+    <string name="title_connections">Connections</string>
+
+    <string name="device_name_placeholder">Device</string>
+    <string name="topic_name_placeholder">Topic</string>
+    <string name="reading_value_placeholder">Reading</string>
+    <string name="reading_time_placeholder">Time</string>
+
+    <string name="reading_value_display">%s %s</string>
+    <string name="reading_time_display">Last updated: %s</string>
+
+    <string name="device_more_info_title">DEVICE</string>
+    <string name="device_more_info_select_topic">Select main topic:</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">Back</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="add_new_device">Add new device</string>
+    <string name="device_name">Device name</string>
+
+    <string name="add_new_topic">Add new topic to device</string>
+</resources>

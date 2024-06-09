@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:id="@+id/deviceMoreInfoTemplateRB"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/topic_name_placeholder"
+    android:textAlignment="center"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:visibility="visible"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</RadioButton>

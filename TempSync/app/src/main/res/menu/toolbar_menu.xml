@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/toolbarLogoutMenuItem"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/btn_logout"
+        app:showAsAction="ifRoom"/>
+
+    <!-- // TODO: Make visible when implemented -->
+    <item
+        android:id="@+id/toolbarUserInfo"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="@string/user_info"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/toolbarAddNewDevice"
+        android:icon="@drawable/baseline_add_24"
+        android:title="@string/add_device"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/toolbarAddNewTopic"
+        android:icon="@drawable/baseline_add_24"
+        android:title="@string/add_topic"
+        app:showAsAction="never"/>
+
+    <!-- // TODO: Make visible when implemented -->
+    <item
+        android:id="@+id/toolbarAddNewConnection"
+        android:icon="@drawable/baseline_add_24"
+        android:title="@string/add_conn"
+        android:visible="false"
+        app:showAsAction="never"/>
+
+</menu>
